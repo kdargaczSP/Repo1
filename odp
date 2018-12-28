@@ -1,0 +1,6 @@
+Komenda: git add . - dodaje do poczekalni zawartość całego bieżącego katalogu.
+Katalog .git jest katalogiem domyślnym git-a.
+Plik .gitignore został już dodany do repozytorium. Z jego zawartością, wiąże się też ignorowanie plików z rozszerzeniem .dat, czyli: one.dat, two.dat.
+Pliki one.txt two.txt three.txt były już w repozytorium.
+Śledzone są pliki: moj_program.c i readme.
+Zostały one nowo utworzone i nie dodane jeszcze do poczekalni wcześniej, dlatego teraz są śledzone.
